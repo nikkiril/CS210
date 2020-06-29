@@ -16,4 +16,4 @@
   I believe using objects will be the most important skill from this project. I've read that OOP princepals are really important for developers to understand. The more practice I have with objects the more likely those concepts are to stick.
   
 <p><i>How did you make this program maintainable, readable, and adaptable?</i><p>
-  
+  By not hardcoding any data the program is adaptable to the users inputs. I made the code readable by utilizing whitespace, good naming conventions, and placing a minimum amount of code in main(). I included comments throughout to help with maintainability. Anyone who wants to change or enhance the code in the future can look at my comments to understand what I've done.
